@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.React Demo", "Bridge.React Demo\Bridge.React Demo.csproj", "{05D46EB5-18F7-4DCD-8925-71EB34C7237E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge_React_Demo", "Bridge_React_Demo\Bridge_React_Demo.csproj", "{05D46EB5-18F7-4DCD-8925-71EB34C7237E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
